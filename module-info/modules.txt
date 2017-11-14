@@ -1,0 +1,2 @@
+indigo-kepler-module    https://github.com/indigo-dc/indigo-kepler-module.git
+*kepler-2.5
